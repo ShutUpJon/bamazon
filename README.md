@@ -6,7 +6,7 @@ This application will let you puruse items for sale using the bamazonCustomer.js
 Using the bamazonManager.js file you can add inventory, add new items, and remove items from the purchase table.
 
 ## Functionality
-###### Customer App
+##### Customer App
 The Customer App allows you to view items for sale and purchase them in the quantities desired. Upon launching the app you will receive a table (pictured below):
 
 --pic here--
@@ -15,7 +15,7 @@ Then it asks you for the quantities desired.
 If the items and quantties are avaialble you'll receive a purchase confirmed message!
 If the items and quantties are unavailable, you'll receive an error asking you to try again.
 
-###### Manager App
+##### Manager App
 The Manager App allows you to view your inventory, add stock, and new items, and remove items. Upon launching the app you receive the same tasble, with some different functionalilty (pictured below):
 
 --pic here--
@@ -25,10 +25,10 @@ Add New Product - Add a New Item - Place it Into Desired Item Category - Set You
 Remove Existing Product - Remove Items by ID Number - Item has been removed
 
 ## Technologies Used
-*Node.js
-*mysql
-*inquirer
-*cli-table
-*written in JavaScript
+* Node.js
+* mysql
+* inquirer
+* cli-table
+* written in JavaScript
 
 
