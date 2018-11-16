@@ -8,9 +8,6 @@ Using the bamazonManager.js file you can add inventory, add new items, and remov
 ## Functionality
 ##### Customer App
 The Customer App allows you to view items for sale and purchase them in the quantities desired. Upon launching the app you will receive a table (pictured below):
-
-![Image of confirmation]
-(https://github.com/ShutUpJon/bamazon/img/confirmationMessage.jpg)
       
 As you can see it will prompt you for the item(s) you would like to purchase.
 Then it asks you for the quantities desired.
