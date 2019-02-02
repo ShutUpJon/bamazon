@@ -1,7 +1,7 @@
 # Welcome to Bamazon!
 ## Overview
 
-This application will let you puruse items for sale using the bamazonCustomer.js file. You can see products for sale, the quantites available for purchase, and the pricing. Prompts Guide you through the process of purchasing items.
+This application will let you peruse items for sale using the bamazonCustomer.js file. You can see products for sale, the quantites available for purchase, and the pricing. Prompts Guide you through the process of purchasing items.
 
 Using the bamazonManager.js file you can add inventory, add new items, and remove items from the purchase table.
 
